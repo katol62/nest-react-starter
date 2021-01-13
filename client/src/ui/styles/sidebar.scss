@@ -1,0 +1,59 @@
+
+nav {
+  &.nav-custom {
+    background-color: #fff;
+    border-right: 1px solid #ddd;
+    button[role=button] {
+      span {
+        background-color: black;
+      }
+    }
+    div[role=menu] {
+      div[role=presentation] {
+        div[role=menuitem] {
+          color: black;
+          div[class*="sidenav---navicon"] {
+            color: black;
+            svg {
+              color: black;
+            }
+          }
+          div[class*="sidenav---navtext"] {
+            color: black;
+          }
+          &:not([class*=" sidenav---highlighted"]):hover {
+            background-color: grey;
+            color: white;
+            div[class*="sidenav---navicon"] {
+              color: white;
+              svg {
+                color: white;
+              }
+            }
+            div[class*="sidenav---navtext"] {
+              color: white;
+            }
+          }
+        }
+        &[class*=" sidenav---highlighted"] {
+          background-color: black;
+          div[role=menuitem] {
+            color: white !important;
+            div[class*="sidenav---navicon"] {
+              color: white !important;
+              svg {
+                color: white !important;
+              }
+            }
+            div[class*="sidenav---navtext"] {
+              color: white;
+            }
+          }
+        }
+
+      }
+
+
+    }
+  }
+}

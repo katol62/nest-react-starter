@@ -1,0 +1,31 @@
+.alert {
+  &.notification {
+    position: fixed;
+    top: 0;
+    right: 0;
+    min-width: 300px;
+    max-width: 500px;
+    max-height: 100%;
+  }
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.content {
+  margin-left: 64px;
+  -webkit-transition: opacity 0.2s linear;
+  -moz-transition: opacity 0.2s linear;
+  -o-transition: opacity 0.2s linear;
+  -ms-transition: opacity 0.2s linear;
+  transition: opacity 0.2s linear;
+  &.expanded {
+    margin-left: 240px;
+    -webkit-transition: opacity 0.2s linear;
+    -moz-transition: opacity 0.2s linear;
+    -o-transition: opacity 0.2s linear;
+    -ms-transition: opacity 0.2s linear;
+    transition: opacity 0.2s linear;
+  }
+}
