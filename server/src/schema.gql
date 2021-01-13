@@ -1,0 +1,58 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+"""
+A date-time string at UTC, such as 2019-12-03T09:54:33Z, compliant with the date-time format.
+"""
+scalar DateTime
+
+type Mutation {
+  create(deviceId: String, dob: DateTime, email: String, firstName: String, lastName: String, password: String, phone: String, role: String = "user", verified: Boolean): UserModel!
+  delete(id: Float!): UserDeleteResponse!
+  login(password: String, phone: String!): UserLoginResponse!
+  register(deviceId: String, dob: DateTime, email: String, firstName: String, lastName: String, password: String, phone: String, role: String = "user", verified: Boolean): UserModel!
+  update(deviceId: String, dob: DateTime, email: String, firstName: String, id: Float!, lastName: String, password: String, phone: String, role: String = "user", verified: Boolean): UserUpdateResponse!
+}
+
+type Query {
+  me: UserModel!
+  user(filter: UserFilterDto): UserModel!
+  users(filter: UserFilterDto): [UserModel!]!
+}
+
+type UserDeleteResponse {
+  success: Boolean!
+}
+
+input UserFilterDto {
+  email: String
+  firstName: String
+  id: Float
+  lastName: String
+  phone: String
+  role: String
+}
+
+type UserLoginResponse {
+  token: String!
+}
+
+type UserModel {
+  deviceId: String
+  dob: DateTime
+  email: String
+  firstName: String
+  id: Float
+  lastName: String
+  password: String
+  phone: String
+  role: String
+  token: String
+  verified: Boolean
+}
+
+type UserUpdateResponse {
+  success: Boolean!
+  user: UserModel
+}

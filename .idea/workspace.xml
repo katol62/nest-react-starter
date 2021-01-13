@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9a7d014-e150-4733-b462-cc4fecb5be7b" name="Default Changelist" comment="adding existing repo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP-7.3.4" />
+  <component name="ProjectId" id="1kjFFeuBPZSmQ06UnN3XVd1JHIi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.14.1/bin/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="options.lastSelected" value="preferences.sourceCode.General" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/client/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/ui/containers" />
+      <recent name="$PROJECT_DIR$/client/src/ui" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start:dev">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start:dev" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.eject" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.start:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a7d014-e150-4733-b462-cc4fecb5be7b" name="Default Changelist" comment="" />
+      <created>1606205993661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606205993661</updated>
+      <workItem from="1606205995038" duration="14291000" />
+      <workItem from="1606283112440" duration="3307000" />
+      <workItem from="1606289331512" duration="18884000" />
+      <workItem from="1606369155564" duration="1386000" />
+      <workItem from="1606375818151" duration="17143000" />
+      <workItem from="1606396261421" duration="6583000" />
+      <workItem from="1606455268102" duration="1802000" />
+      <workItem from="1606457507036" duration="3994000" />
+      <workItem from="1606471907593" duration="1505000" />
+      <workItem from="1606473989794" duration="2773000" />
+      <workItem from="1606476885373" duration="796000" />
+      <workItem from="1606478582820" duration="433000" />
+      <workItem from="1606479557480" duration="160000" />
+      <workItem from="1606479769863" duration="704000" />
+      <workItem from="1606480551824" duration="8147000" />
+      <workItem from="1606715371367" duration="4938000" />
+      <workItem from="1606724209191" duration="9217000" />
+      <workItem from="1606801320081" duration="16636000" />
+      <workItem from="1606887443370" duration="5944000" />
+      <workItem from="1606897834012" duration="604000" />
+      <workItem from="1606898503351" duration="19049000" />
+      <workItem from="1606974176334" duration="1776000" />
+      <workItem from="1606979417595" duration="20492000" />
+      <workItem from="1607060482880" duration="580000" />
+      <workItem from="1607061590389" duration="477000" />
+      <workItem from="1607063320609" duration="13653000" />
+      <workItem from="1607319691875" duration="13843000" />
+      <workItem from="1607341029583" duration="6364000" />
+      <workItem from="1607406366169" duration="3066000" />
+      <workItem from="1607412365094" duration="461000" />
+      <workItem from="1607413230569" duration="20103000" />
+      <workItem from="1607493381020" duration="18542000" />
+      <workItem from="1607522597027" duration="4123000" />
+      <workItem from="1607578294960" duration="17020000" />
+      <workItem from="1607600976718" duration="7467000" />
+      <workItem from="1607665586586" duration="5593000" />
+      <workItem from="1607675241261" duration="1897000" />
+      <workItem from="1607677814416" duration="889000" />
+      <workItem from="1607679336260" duration="1126000" />
+      <workItem from="1607696016069" duration="315000" />
+      <workItem from="1607768822030" duration="574000" />
+      <workItem from="1607859485760" duration="583000" />
+      <workItem from="1607925177747" duration="584000" />
+      <workItem from="1607938564600" duration="591000" />
+      <workItem from="1607946738109" duration="593000" />
+      <workItem from="1608011103802" duration="574000" />
+      <workItem from="1608029831264" duration="1165000" />
+      <workItem from="1608097991299" duration="597000" />
+      <workItem from="1608184737393" duration="581000" />
+      <workItem from="1608198613057" duration="596000" />
+      <workItem from="1608270013289" duration="1610000" />
+      <workItem from="1608529934934" duration="582000" />
+      <workItem from="1608616169344" duration="587000" />
+      <workItem from="1608702613941" duration="502000" />
+      <workItem from="1608788545393" duration="514000" />
+      <workItem from="1608799201962" duration="569000" />
+      <workItem from="1608802504388" duration="588000" />
+      <workItem from="1608875430535" duration="577000" />
+      <workItem from="1609134358361" duration="547000" />
+      <workItem from="1609135031462" duration="594000" />
+      <workItem from="1609221149619" duration="477000" />
+      <workItem from="1609230493131" duration="581000" />
+      <workItem from="1609238799120" duration="589000" />
+      <workItem from="1609307122702" duration="596000" />
+      <workItem from="1609833514618" duration="565000" />
+      <workItem from="1609910950996" duration="519000" />
+      <workItem from="1610084890242" duration="578000" />
+      <workItem from="1610092149041" duration="593000" />
+      <workItem from="1610344225869" duration="1170000" />
+      <workItem from="1610435465958" duration="506000" />
+      <workItem from="1610516621601" duration="4656000" />
+      <workItem from="1610526017246" duration="704000" />
+      <workItem from="1610527069160" duration="352000" />
+      <workItem from="1610527436382" duration="202000" />
+      <workItem from="1610527663215" duration="443000" />
+      <workItem from="1610528118029" duration="337000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding existing repo">
+      <created>1610517394597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610517394597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/server" />
+    </ignored-roots>
+    <MESSAGE value="adding existing repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding existing repo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server/src/users/users-resolver.ts</url>
+          <line>50</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
